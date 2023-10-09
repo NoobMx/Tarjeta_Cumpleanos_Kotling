@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Feliz Cumpleanos</string>
+    <string name="feliz_cumpleanos_text">Feliz Cumpleaños Bro</string>
+    <string name="firma_text">De: R.A.M.O</string>
 </resources>
